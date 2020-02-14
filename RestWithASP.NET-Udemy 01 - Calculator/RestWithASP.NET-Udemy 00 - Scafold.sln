@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.852
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestWithASP.NET-Udemy 00 - Scafold", "RestWithASP.NET-Udemy 00 - Scafold\RestWithASP.NET-Udemy 00 - Scafold.csproj", "{0B584996-FB32-43B5-8A87-839B810A3EF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestWithASP.NET-Udemy 01 - Calculator", "RestWithASP.NET-Udemy 00 - Scafold\RestWithASP.NET-Udemy 01 - Calculator.csproj", "{0B584996-FB32-43B5-8A87-839B810A3EF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

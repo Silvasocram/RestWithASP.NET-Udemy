@@ -11805,11 +11805,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Estudos\\Udemy\\REST API - ASP.NET Core\\RestWithASP.NET-Udemy\\RestWithASP.NET-Udemy 00 - Scafold\\RestWithASP.NET-Udemy 00 - Scafold\\RestWithASP.NET-Udemy 00 - Scafold.csproj",
-      "projectName": "RestWithASP.NET-Udemy 00 - Scafold",
-      "projectPath": "D:\\Estudos\\Udemy\\REST API - ASP.NET Core\\RestWithASP.NET-Udemy\\RestWithASP.NET-Udemy 00 - Scafold\\RestWithASP.NET-Udemy 00 - Scafold\\RestWithASP.NET-Udemy 00 - Scafold.csproj",
+      "projectUniqueName": "D:\\Estudos\\Udemy\\REST API - ASP.NET Core\\RestWithASP.NET-Udemy\\RestWithASP.NET-Udemy 01 - Calculator\\RestWithASP.NET-Udemy 00 - Scafold\\RestWithASP.NET-Udemy 01 - Calculator.csproj",
+      "projectName": "RestWithASP.NET-Udemy 01 - Calculator",
+      "projectPath": "D:\\Estudos\\Udemy\\REST API - ASP.NET Core\\RestWithASP.NET-Udemy\\RestWithASP.NET-Udemy 01 - Calculator\\RestWithASP.NET-Udemy 00 - Scafold\\RestWithASP.NET-Udemy 01 - Calculator.csproj",
       "packagesPath": "C:\\Users\\silva\\.nuget\\packages\\",
-      "outputPath": "D:\\Estudos\\Udemy\\REST API - ASP.NET Core\\RestWithASP.NET-Udemy\\RestWithASP.NET-Udemy 00 - Scafold\\RestWithASP.NET-Udemy 00 - Scafold\\obj\\",
+      "outputPath": "D:\\Estudos\\Udemy\\REST API - ASP.NET Core\\RestWithASP.NET-Udemy\\RestWithASP.NET-Udemy 01 - Calculator\\RestWithASP.NET-Udemy 00 - Scafold\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
